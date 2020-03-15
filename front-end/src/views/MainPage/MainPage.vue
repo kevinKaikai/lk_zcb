@@ -1,21 +1,16 @@
 <template>
-  <div id="app">
-    <router-view></router-view>
-  </div>
+  <div>{{ msg }}</div>
 </template>
 <script>
 export default {
-  name: "App",
+  name: "MainPage",
   components: {},
   data() {
     return {
+        msg:"这是首页"
     };
   }
 };
 </script>
 <style lang="scss">
-* {
-  margin: 0;
-  padding: 0;
-}
 </style>
