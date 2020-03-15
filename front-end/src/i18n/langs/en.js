@@ -1,9 +1,9 @@
-import enLocale from 'element-ui/lib/locale/lang/en'
+import enLocale from "element-ui/lib/locale/lang/en";
 const en = {
-    message: {
-        'hello': 'hello, world',
-    },
-    ...enLocale
-}
+  message: {
+    hello: "hello, world"
+  },
+  ...enLocale
+};
 
-export default en
+export default en;

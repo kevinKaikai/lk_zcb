@@ -7,10 +7,9 @@ export default {
   components: {},
   data() {
     return {
-        msg:"这是首页"
+      msg: "这是首页"
     };
   }
 };
 </script>
-<style lang="scss">
-</style>
+<style lang="scss"></style>

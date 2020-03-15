@@ -1,11 +1,11 @@
 //cn.js
 
-import zhLocale from 'element-ui/lib/locale/lang/zh-CN'
+import zhLocale from "element-ui/lib/locale/lang/zh-CN";
 const cn = {
-    message: {
-        'hello': '你好，世界',
-    },
-    ...zhLocale
-}
+  message: {
+    hello: "你好，世界"
+  },
+  ...zhLocale
+};
 
-export default cn
+export default cn;
